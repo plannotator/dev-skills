@@ -41,7 +41,7 @@ npx skills add plannotator/dev-skills --skill simplify
 
 ### Code Review
 
-- `claude-review`: Combined from Claude's OSS skills and derived non-public, more capable review. [Source: [Claude Code](https://www.anthropic.com/product/claude-code)]
+- `claude-review`: Combined Claude's oss skill and derived more capable review. [Source: [Claude Code](https://www.anthropic.com/product/claude-code)]
 - `codex-review`: The actual codex-rs source review prompt. [Source: [Codex](https://github.com/openai/codex)]
 - `simplify`: Review changed code for reuse, quality, and efficiency. [Source: [Claude Code](https://www.anthropic.com/product/claude-code)]
 - `self-review`: Self-review the code you just wrote for bugs, duplication, and reusability.
