@@ -13,6 +13,8 @@
       "title": "Code Review",
       "description": "Skills for reviewing diffs and pull requests.",
       "skills": [
+        "claude-review",
+        "codex-review",
         "crusty-old-engineer",
         "simplify",
         "self-review",

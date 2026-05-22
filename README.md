@@ -11,14 +11,14 @@ A growing list of simple skills to enhance development with agents.
 ## Install
 
 ```bash
-npx skills add ramos/review-skills
+npx skills add plannotator/dev-skills
 ```
 
 Install a specific skill:
 
 ```bash
-npx skills add ramos/review-skills --skill bro
-npx skills add ramos/review-skills --skill simplify
+npx skills add plannotator/dev-skills --skill bro
+npx skills add plannotator/dev-skills --skill simplify
 ```
 
 ## Skills
@@ -29,6 +29,8 @@ npx skills add ramos/review-skills --skill simplify
 
 ### Code Review
 
+- `claude-review` - Exact Plannotator Claude Code review prompt as a skill.
+- `codex-review` - Exact Plannotator Codex review prompt as a skill.
 - `crusty-old-engineer` - Grounded skeptical engineering advice for architecture, legacy refactors, tooling, and broad planning questions.
 - `simplify` - Review changed code for reuse, quality, and efficiency, then fix issues found.
 - `self-review` - Self-review the code you just wrote for bugs, duplication, and reusability.

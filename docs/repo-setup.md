@@ -49,6 +49,10 @@ agent-skills/
       bro/
         SKILL.md
     code-review/
+      claude-review/
+        SKILL.md
+      codex-review/
+        SKILL.md
       crusty-old-engineer/
         SKILL.md
       simplify/
@@ -63,9 +67,11 @@ Use `plugin.json` for one collection:
 
 ```json
 {
-  "name": "ramos-agent-skills",
+  "name": "plannotator-dev-skills",
   "skills": [
     "./skills/general/bro",
+    "./skills/code-review/claude-review",
+    "./skills/code-review/codex-review",
     "./skills/code-review/crusty-old-engineer",
     "./skills/code-review/simplify",
     "./skills/code-review/self-review",
@@ -109,5 +115,5 @@ Keep each skill narrow by trigger. Do not make one giant general skill if there 
 Use a manifest to curate what installs by default, keep drafts out of it, and let users choose individual skills:
 
 ```bash
-npx skills add ramos/review-skills --skill simplify
+npx skills add plannotator/dev-skills --skill simplify
 ```
