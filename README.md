@@ -1,12 +1,16 @@
-A growing list of simple skills to enhance development with agents.
+## A growing list of simple skills to enhance development with agents
 
-**general:** non-opionated daily essentials.
-**code-review:** varying & curated industry code review skills
+#### Categories
 
-90% of the time these two skills provide the most utility without disrupting workflows:
+- **general**: non-opinionated daily essentials
+- **code-review**: varied and curated industry code review skills
 
-**bro** - explain the last message more simply, no jargon
-**self-review** - have the agent conduct a self review of last effort of work.
+#### Most useful
+
+90% of the time, these two skills provide the most utility without disrupting workflows:
+
+- **bro**: explain the last message more simply, no jargon
+- **self-review**: have the agent conduct a self-review of its last effort
 
 ## Install
 
