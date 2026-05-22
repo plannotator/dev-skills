@@ -1,6 +1,6 @@
 ---
 name: claude-review
-description: "Exact Plannotator Claude Code review prompt as a skill. Use when you want Claude provider code-review instructions exactly as Plannotator sends them."
+description: "Claude Code review prompt derived from public Claude Code behavior and latest non-public review capabilities. Use for Claude-style code review."
 disable-model-invocation: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: codex-review
-description: "Exact Plannotator Codex review prompt as a skill. Use when you want Codex provider code-review instructions exactly as Plannotator sends them."
+description: "Codex review prompt derived from the actual codex-rs source prompt. Use for Codex-style code review."
 disable-model-invocation: true
 ---
 

@@ -33,8 +33,8 @@ npx skills add plannotator/dev-skills --skill simplify
 
 ### Code Review
 
-- `claude-review` - Exact Plannotator Claude Code review prompt as a skill.
-- `codex-review` - Exact Plannotator Codex review prompt as a skill.
+- `claude-review` - Derived from public Claude Code behavior and latest non-public review capabilities.
+- `codex-review` - Derived from the actual codex-rs source review prompt.
 - `crusty-old-engineer` - Grounded skeptical engineering advice for architecture, legacy refactors, tooling, and broad planning questions.
 - `simplify` - Review changed code for reuse, quality, and efficiency, then fix issues found.
 - `self-review` - Self-review the code you just wrote for bugs, duplication, and reusability.
