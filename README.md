@@ -20,6 +20,12 @@
 npx skills add plannotator/dev-skills
 ```
 
+List all first:
+
+```bash
+npx skills add /Users/ramos/review-skills --list
+```
+
 Install a specific skill:
 
 ```bash
