@@ -1,0 +1,10 @@
+{
+  "name": "review-skills",
+  "skills": [
+    "./skills/general/bro",
+    "./skills/code-review/crusty-old-engineer",
+    "./skills/code-review/simplify",
+    "./skills/code-review/self-review",
+    "./skills/code-review/thermo-nuclear-code-quality-review"
+  ]
+}

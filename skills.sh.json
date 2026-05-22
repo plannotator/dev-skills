@@ -1,0 +1,23 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "General",
+      "description": "General-purpose skills for agent workflows.",
+      "skills": [
+        "bro"
+      ]
+    },
+    {
+      "title": "Code Review",
+      "description": "Skills for reviewing diffs and pull requests.",
+      "skills": [
+        "crusty-old-engineer",
+        "simplify",
+        "self-review",
+        "thermo-nuclear-code-quality-review"
+      ]
+    }
+  ]
+}
