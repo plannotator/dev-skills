@@ -1,6 +1,6 @@
 ---
 name: claude-review
-description: "Claude Code review prompt derived from public Claude Code behavior and latest non-public review capabilities. Use for Claude-style code review."
+description: "Claude Code review prompt combined from their OSS review skills and derived from non-public, more capable review. Use for Claude-style code review."
 disable-model-invocation: true
 ---
 

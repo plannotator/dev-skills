@@ -33,7 +33,7 @@ npx skills add plannotator/dev-skills --skill simplify
 
 ### Code Review
 
-- `claude-review` - Derived from public Claude Code behavior and latest non-public review capabilities.
+- `claude-review` - Combined from Claude's OSS review skills and derived from non-public, more capable review.
 - `codex-review` - Derived from the actual codex-rs source review prompt.
 - `crusty-old-engineer` - Grounded skeptical engineering advice for architecture, legacy refactors, tooling, and broad planning questions.
 - `simplify` - Review changed code for reuse, quality, and efficiency, then fix issues found.
