@@ -12,6 +12,8 @@
 - **bro**: explain the last message more simply, no jargon
 - **self-review**: have the agent conduct a self-review of its last effort
 
+*these skills have nothing to do with the install of [Plannotator](https://github.com/backnotprop/plannotator)*
+
 ## Install
 
 ```bash
