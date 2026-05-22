@@ -1,16 +1,14 @@
-# Review Skills
+A growing list of simple skills to enhance development with agents.
 
-Agent skills for general and code review workflows.
+**general:** non-opionated daily essentials.
+**code-review:** varying & curated industry code review skills
+
+90% of the time these two skills provide the most utility without disrupting workflows:
+
+**bro** - explain the last message more simply, no jargon
+**self-review** - have the agent conduct a self review of last effort of work.
 
 ## Install
-
-List available skills:
-
-```bash
-npx skills add ramos/review-skills --list
-```
-
-Install interactively:
 
 ```bash
 npx skills add ramos/review-skills
