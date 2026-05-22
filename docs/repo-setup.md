@@ -53,8 +53,6 @@ agent-skills/
         SKILL.md
       codex-review/
         SKILL.md
-      crusty-old-engineer/
-        SKILL.md
       simplify/
         SKILL.md
       self-review/
@@ -72,7 +70,6 @@ Use `plugin.json` for one collection:
     "./skills/general/bro",
     "./skills/code-review/claude-review",
     "./skills/code-review/codex-review",
-    "./skills/code-review/crusty-old-engineer",
     "./skills/code-review/simplify",
     "./skills/code-review/self-review",
     "./skills/code-review/thermo-nuclear-code-quality-review"

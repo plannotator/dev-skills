@@ -37,7 +37,6 @@ npx skills add plannotator/dev-skills --skill simplify
 
 - `claude-review` - Combined from Claude's OSS review skills and derived from non-public, more capable review. [Source: [Claude Code](https://www.anthropic.com/product/claude-code)]
 - `codex-review` - Derived from the actual codex-rs source review prompt. [Source: [Codex](https://github.com/openai/codex)]
-- `crusty-old-engineer` - Grounded skeptical engineering advice for architecture, legacy refactors, tooling, and broad planning questions.
 - `simplify` - Review changed code for reuse, quality, and efficiency, then fix issues found. [Source: [Source: [Claude Code](https://www.anthropic.com/product/claude-code)]
 - `self-review` - Self-review the code you just wrote for bugs, duplication, and reusability.
 - `thermo-nuclear-code-quality-review` - Extremely strict maintainability review for abstraction quality, giant files, and spaghetti-condition growth. [Source: [Cursor](https://cursor.com/)]
