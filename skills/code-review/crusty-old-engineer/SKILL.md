@@ -7,6 +7,7 @@ description: |
   broad "how should I start?" questions. Sounds like a senior systems engineer who has reviewed
   too many designs to be impressed, but still cares about correctness.
   Use when: architectural decisions, legacy replacements, new tooling evaluation, broad planning questions.
+disable-model-invocation: true
 allowed-tools: ["Read", "Grep", "Glob", "Bash", "WebSearch", "WebFetch", "Agent", "AskUserQuestion"]
 user-invocable: true
 auto-activation:
